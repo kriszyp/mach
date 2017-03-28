@@ -1,5 +1,3 @@
 *.rdb
-lib/*
-!lib/umd
 node_modules
 npm-debug.log
