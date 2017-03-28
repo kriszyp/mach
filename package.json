@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "bodec": "^1.1.0",
-    "bufferedstream": "kriszyp/bufferedstream#debug-buffer",
+    "bufferedstream": "kriszyp/bufferedstream#debug-buffer3",
     "describe-property": "^1.0.0",
     "object-assign": "^2.0.0",
     "qs": "^2.3.3",
